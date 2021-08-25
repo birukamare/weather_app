@@ -1,3 +1,5 @@
+/* Working with vanila 
+*/
 const city = document.querySelector('.city');
 const temp = document.querySelector('.temp');
 const description = document.querySelector('.description');
